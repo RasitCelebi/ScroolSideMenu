@@ -616,14 +616,6 @@ video {
   line-height: 1.75rem;
 }
 
-.leading-\[60px\] {
-  line-height: 60px;
-}
-
-.leading-\[30px\] {
-  line-height: 30px;
-}
-
 .leading-\[40px\] {
   line-height: 40px;
 }
